@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sod:home|Door43 (sod)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sod|d43-sod repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sod/archive/master.zip|d43-sod.zip]]
+
+**Recent Changes**
+{{changes>ns = sod}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sod|Ethnologue data]]
+
